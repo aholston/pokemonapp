@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+#container {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+#poke-img {
+    display: inline-block;
+    width: 1100px;
+    
+}
+
+#poke-dex {
+    border: 5px solid blue;
+    width: 350px;
+    height: 500px;
+    display: inline-block;
+    float: right;
+	text-align: center;
+}
+
+li {
+	list-style-position: inside;
+}
